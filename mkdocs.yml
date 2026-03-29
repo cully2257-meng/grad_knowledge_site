@@ -1,0 +1,15 @@
+site_name: My Graduate Knowledge Base
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - Software:
+    - Overview: software/index.md
+    - Fiji: software/fiji.md
+  - Experimental Protocols: experiments/index.md
+  - Data Analysis: analysis/index.md
+  - Troubleshooting: troubleshooting/index.md
+  - About: about.md
